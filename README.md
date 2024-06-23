@@ -10,15 +10,15 @@ The script captures video from the webcam and converts each frame to the HSV col
 
 # Screenshots of the OUTPUT
 
-![Uploading Screenshot 2024-06-23 222821.png…]()
+
 
 The color Blue is detected.
 
-![Uploading Screenshot 2024-06-23 222838.png…]()
+
 
 The color Green is detected.
 
-![Uploading Screenshot 2024-06-23 222851.png…]()
+
 
 The color Red is detected. 
 
