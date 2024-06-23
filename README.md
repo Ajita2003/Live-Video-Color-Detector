@@ -14,7 +14,7 @@ The script captures video from the webcam and converts each frame to the HSV col
 
 The color Blue is detected.
 
-![Green](.assets/Green.png)
+![Green](./assets/Green.png)
 
 The color Green is detected.
 
