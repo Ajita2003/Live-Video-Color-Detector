@@ -2,6 +2,26 @@
 
 This project uses OpenCV to capture video from the webcam and detects the color at the center of the video frame. The detected color is displayed on the video feed in real-time.
 
+# Techstack
+Python OpenCV
+
+# How It Works
+The script captures video from the webcam and converts each frame to the HSV color space. It then determines the color at the center of the frame based on the hue value and displays the color name on the video feed.
+
+# Screenshots of the OUTPUT
+
+![Uploading Screenshot 2024-06-23 222821.png…]()
+
+The color Blue is detected.
+
+![Uploading Screenshot 2024-06-23 222838.png…]()
+
+The color Green is detected.
+
+![Uploading Screenshot 2024-06-23 222851.png…]()
+
+The color Red is detected. 
+
 ## Prerequisites
 
 Ensure you have the following installed:
@@ -28,9 +48,6 @@ Run the script:
 bash
 Copy code
 python colordetector.py
-
-# How It Works
-The script captures video from the webcam and converts each frame to the HSV color space. It then determines the color at the center of the frame based on the hue value and displays the color name on the video feed.
 
 # Color Ranges
 The following HSV hue ranges are used to determine the colors:
